@@ -250,28 +250,26 @@ missão: "Proteger. Fortalecer. Automatizar."
 <tr>
 <td>
 
-### Assistente de Informática — Sicoob Credfaz
-`Nov/2021 — Atual` · Cooperativa financeira regulada pelo Banco Central
+### 🛡️ Assistente de Informática / IT Analyst — Sicoob Credfaz
+`Nov/2021 — Atual` · *Instituição Financeira Regulada pelo BACEN*
 
-Responsável técnico pela operação e segurança da infraestrutura de TI.
+Liderança técnica na modernização, segurança e operação contínua da infraestrutura de TI, garantindo alta disponibilidade e conformidade regulatória.
 
-- Implementação e manutenção de **controles de segurança da informação**
-- Sustentação e evolução da **infraestrutura tecnológica**
-- Suporte técnico a **auditorias internas e externas** de TI
-- **Gestão de riscos** operacionais de TI e implementação de controles
-- **Automação** de processos com Python e Power Automate
-- Gestão de **ativos tecnológicos** e controle de ciclo de vida
-- Implantação de **Snipe-IT**, **Netbox**, **Vaultwarden** e **Eramba**
+- **Segurança Defensiva:** Implementação e gestão de controles de segurança (EDR, Firewall, IAM), mitigando vulnerabilidades e monitorando ameaças com **Wazuh** e **Graylog**.
+- **Infraestrutura Resiliente:** Sustentação e evolução do ambiente tecnológico, incluindo gestão de servidores Windows/Linux, virtualização e redes segmentadas.
+- **Governança & Compliance:** Suporte técnico ativo a **auditorias (internas/externas)** e condução da **Gestão de Riscos Operacionais** (Frameworks ISO 27001 / BACEN).
+- **Engenharia de Automação:** Desenvolvimento de scripts (Python/Bash) e automações (Power Automate) para resposta a incidentes, extração de dados e otimização de rotinas.
+- **Gestão de Ecossistema Open Source:** Implantação do zero e administração de plataformas Enterprise: **Snipe-IT** (Ativos), **Netbox** (DCIM/IPAM), **Vaultwarden** (Cofre de Senhas) e **Eramba** (GRC).
 
 </td>
 </tr>
 <tr>
 <td>
 
-### Auxiliar Administrativo — Sicoob Credfaz
+### 🛠️ Auxiliar Administrativo — Sicoob Credfaz
 `Jan/2020 — Out/2021`
 
-Atendimento ao cliente, suporte técnico, organização de processos internos e elaboração de documentos.
+Base operacional da agência, focado no suporte técnico inicial (N1), organização de malotes de segurança e assistência direta a processos de TI locais.
 
 </td>
 </tr>

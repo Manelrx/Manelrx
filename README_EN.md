@@ -250,28 +250,26 @@ mission: "Protect. Fortify. Automate."
 <tr>
 <td>
 
-### IT Assistant — Sicoob Credfaz
-`Nov/2021 — Present` · Financial cooperative regulated by the Central Bank of Brazil
+### 🛡️ IT Infrastructure Analyst — Sicoob Credfaz
+`Nov/2021 — Present` · *Financial Institution (Regulated by the Central Bank of Brazil)*
 
-Technical lead responsible for the operation and security of the IT infrastructure.
+Technical lead for the modernization, security, and continuous operation of the IT infrastructure, ensuring high resilience and regulatory compliance.
 
-- Implementation and maintenance of **information security controls**
-- Sustaining and evolving the **technological infrastructure**
-- Technical support for **internal and external IT audits**
-- IT operational **risk management** and control implementation
-- Process **automation** with Python and Power Automate
-- **Technological asset** management and lifecycle control
-- Deployment of **Snipe-IT**, **Netbox**, **Vaultwarden**, and **Eramba**
+- **Defensive Security:** Implementation and management of security controls (EDR, Firewall, IAM), mitigating vulnerabilities and monitoring threats in real-time with **Wazuh** and **Graylog**.
+- **Resilient Infrastructure:** Sustaining and evolving the technological environment, managing Windows/Linux servers, virtualization, and segmented networks.
+- **Governance & Compliance:** Providing active technical support for **audits (internal/external)** and orchestrating operational **Risk Management** (ISO 27001 / BACEN frameworks).
+- **Automation Engineering:** Developing scripts (Python/Bash) and automations (Power Automate) to accelerate incident response, data extraction, and routine optimization.
+- **Enterprise Ecosystem Management:** Zero-to-production deployment and administration of Open Source platforms: **Snipe-IT** (Assets), **Netbox** (DCIM/IPAM), **Vaultwarden** (Password Vault), and **Eramba** (GRC).
 
 </td>
 </tr>
 <tr>
 <td>
 
-### Administrative Assistant — Sicoob Credfaz
+### 🛠️ Administrative Assistant — Sicoob Credfaz
 `Jan/2020 — Oct/2021`
 
-Customer service, technical support, internal process organization, and document preparation.
+Operational baseline of the branch, focusing on initial IT technical support (L1), secure document handling, and assisting with local IT processes.
 
 </td>
 </tr>
