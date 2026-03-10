@@ -1,143 +1,202 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=Emanuel%20%7C%20Manelrx&fontSize=46&fontColor=58a6ff&animation=fadeIn&fontAlignY=40" width="100%" alt="Header" />
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=c9d1d9&center=true&vCenter=true&width=600&lines=Staff+Infrastructure+%26+Cybersecurity+Engineer;Building+Resilient%2C+Secure+%26+Scalable+Systems;Zero+Trust+Architecture+%7C+Cloud-Native+%7C+DevSecOps" alt="Typing SVG" />
+
+<div align="right">
+  <img src="https://img.shields.io/badge/Lang-PT--BR-0d1117?style=flat-square&logo=google-earth&logoColor=58a6ff&labelColor=161b22" alt="PT-BR"/>
+  <a href="README_EN.md"><img src="https://img.shields.io/badge/Lang-EN--US-0d1117?style=flat-square&logo=google-earth&logoColor=484f58&labelColor=161b22" alt="EN-US"/></a>
 </div>
 
-<br/>
+<br>
 
-### ⚡ `$ whoami`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&height=70&lines=Emanuel+Ara%C3%BAjo;Infrastructure+%26+Security;Protejo.+Fortale%C3%A7o.+Automatizo." alt="Emanuel Araújo" />
+
+<p align="center">
+  <a href="https://manelrx.github.io/portifolio/" target="_blank">
+    <img src="https://img.shields.io/badge/DASHBOARD-PORTFÓLIO-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff&labelColor=161b22" alt="Portfólio"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/EXPERTISE-4%2B_ANOS-0d1117?style=for-the-badge&logo=opsgenie&logoColor=58a6ff&labelColor=161b22" alt="Experiência"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/STATUS-OPERAÇÕES_ATIVAS-1a6b3c?style=for-the-badge&logo=checkmarx&logoColor=ffffff&labelColor=161b22" alt="Status"/>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Manelrx&color=58a6ff&style=flat-square&label=TELEMETRY_PINGS&label_color=161b22" alt="Profile views"/>
+
+</div>
+
+<br><br>
+
+### ≡ 01. SYSTEM_PROFILE
+
+> *"A segurança não é um produto, mas um processo contínuo." — Bruce Schneier*
 
 ```yaml
-name: Emanuel (Manelrx)
-role: Staff Infrastructure & Cybersecurity Engineer
-focus: Cloud-Native Architecture, SecOps, Platform Engineering
-mission: "Design resilient, secure, and scalable high-availability systems."
+resource: Identity
+apiVersion: v1
+metadata:
+  name: Emanuel Araújo
+  role: Especialista em Infraestrutura & Segurança da Informação
+  location: Brasil 🇧🇷
+spec:
+  context: >
+    +4 anos protegendo infraestrutura tecnológica em uma cooperativa 
+    financeira regulada pelo Banco Central. 
+  mission: 
+    - Garantir camadas de defesa (Defense in Depth).
+    - Implementar e sustentar arquitetura de infraestrutura.
+    - Automatizar compliance, governança e rotinas operacionais (SecOps/InfraOps).
 ```
 
-### 🏗️ Enterprise Architecture & Expertise
+<br>
 
-```text
-+-------------------------------------------------------------+
-|                  ENTERPRISE ARCHITECTURE                    |
-+--------------------+-------------------+--------------------+
-|     SECURITY       |  INFRASTRUCTURE   |    GOVERNANCE      |
-+--------------------+-------------------+--------------------+
-| ▪ Zero Trust       | ▪ Cloud Native    | ▪ FinOps           |
-| ▪ IAM / RBAC       | ▪ Kubernetes      | ▪ Compliance       |
-| ▪ SecOps           | ▪ IaC / GitOps    | ▪ Risk Mgmt        |
-| ▪ Threat Modeling  | ▪ Observability   | ▪ Architecture     |
-+--------------------+-------------------+--------------------+
-```
-
-### ⚙️ Technology Stack
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%" align="center">
-  <tr>
-    <td width="20%" align="left"><b>Security</b></td>
-    <td width="80%" align="left">
-      <img src="https://img.shields.io/badge/Vault-0d1117?style=flat-square&logo=hashicorpvault&logoColor=58a6ff&color=0d1117" alt="Vault"/>
-      <img src="https://img.shields.io/badge/Keycloak-0d1117?style=flat-square&logo=keycloak&logoColor=58a6ff&color=0d1117" alt="Keycloak"/>
-      <img src="https://img.shields.io/badge/SonarQube-0d1117?style=flat-square&logo=sonarqube&logoColor=58a6ff&color=0d1117" alt="SonarQube"/>
-      <img src="https://img.shields.io/badge/Trivy-0d1117?style=flat-square&logo=aquasecurity&logoColor=58a6ff&color=0d1117" alt="Trivy"/>
-      <img src="https://img.shields.io/badge/CrowdStrike-0d1117?style=flat-square&logo=crowdstrike&logoColor=58a6ff&color=0d1117" alt="CrowdStrike"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="left"><b>Infrastructure</b></td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=58a6ff&color=0d1117" alt="Kubernetes"/>
-      <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=58a6ff&color=0d1117" alt="Docker"/>
-      <img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=58a6ff&color=0d1117" alt="AWS"/>
-      <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=58a6ff&color=0d1117" alt="Linux"/>
-      <img src="https://img.shields.io/badge/Terraform-0d1117?style=flat-square&logo=terraform&logoColor=58a6ff&color=0d1117" alt="Terraform"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="left"><b>Networking</b></td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Cilium-0d1117?style=flat-square&logo=cilium&logoColor=58a6ff&color=0d1117" alt="Cilium"/>
-      <img src="https://img.shields.io/badge/CoreDNS-0d1117?style=flat-square&logo=coredns&logoColor=58a6ff&color=0d1117" alt="CoreDNS"/>
-      <img src="https://img.shields.io/badge/NGINX-0d1117?style=flat-square&logo=nginx&logoColor=58a6ff&color=0d1117" alt="NGINX"/>
-      <img src="https://img.shields.io/badge/Cloudflare-0d1117?style=flat-square&logo=cloudflare&logoColor=58a6ff&color=0d1117" alt="Cloudflare"/>
-      <img src="https://img.shields.io/badge/Istio-0d1117?style=flat-square&logo=istio&logoColor=58a6ff&color=0d1117" alt="Istio"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="left"><b>Automation</b></td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=58a6ff&color=0d1117" alt="Actions"/>
-      <img src="https://img.shields.io/badge/ArgoCD-0d1117?style=flat-square&logo=argo&logoColor=58a6ff&color=0d1117" alt="ArgoCD"/>
-      <img src="https://img.shields.io/badge/Ansible-0d1117?style=flat-square&logo=ansible&logoColor=58a6ff&color=0d1117" alt="Ansible"/>
-      <img src="https://img.shields.io/badge/Helm-0d1117?style=flat-square&logo=helm&logoColor=58a6ff&color=0d1117" alt="Helm"/>
-      <img src="https://img.shields.io/badge/Prometheus-0d1117?style=flat-square&logo=prometheus&logoColor=58a6ff&color=0d1117" alt="Prometheus"/>
-      <img src="https://img.shields.io/badge/Grafana-0d1117?style=flat-square&logo=grafana&logoColor=58a6ff&color=0d1117" alt="Grafana"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="left"><b>Development</b></td>
-    <td align="left">
-      <img src="https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=58a6ff&color=0d1117" alt="Go"/>
-      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff&color=0d1117" alt="Python"/>
-      <img src="https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=58a6ff&color=0d1117" alt="Rust"/>
-      <img src="https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=58a6ff&color=0d1117" alt="Bash"/>
-    </td>
-  </tr>
-</table>
-
-### 🚀 Featured Projects
-
-| Project | Problem | Architecture | Impact |
-| :--- | :--- | :--- | :--- |
-| **[Auth-Gateway](#)** | Fragmented secrets management & hardcoded credentials | Centralized Vault cluster + K8s Sidecar injection | Zero-trust secrets delivery across 50+ microservices |
-| **[K8s-Hardening](#)** | Lack of cluster security baseline | Kyverno, Cilium network policies, Trivy image scanning | Compliance with CIS Benchmarks & ISO 27001 |
-| **[GitOps-Platform](#)** | Manual deployments leading to drift | ArgoCD + Helm + GitHub Actions unified pipeline | 200% faster MTTR and 0 configuration drift |
-
-> *Note: Projects linked above represent architectural models and implementations from both enterprise environments and open-source contributions. Replace links with actual repositories.*
-
-### 🔬 Labs & Experiments
-
-```sh
-# Current Homelab & Self-Hosted Stack
-$ cat /mnt/homelab/infrastructure.yml
-
-cluster: Bare-metal Kubernetes (K3s)
-nodes: 
-  - 3x Control Plane (High Availability)
-  - 5x Worker Nodes (Mixed Workloads)
-storage: Longhorn (Distributed Block Storage)
-ingress: Traefik + Cloudflare Tunnels
-observability: Prometheus + Loki + Tempo + Grafana
-security: CrowdSec + Authentik (SSO) + Vault (Secrets)
-automation: Renovate + FluxCD
-```
-
-### 📜 Certifications & Achievements
-
-- **CKS**: Certified Kubernetes Security Specialist *(Ongoing)*
-- **CKA**: Certified Kubernetes Administrator
-- **HashiCorp Certified**: Terraform Associate
-- **AWS Certified**: Solutions Architect
-
-### 📊 GitHub Telemetry
+### ≡ 02. OPERATIONAL_DOMAINS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manelrx&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=2ea043&text_color=c9d1d9&border_color=1f6feb&hide_border=true" height="192px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manelrx&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=1f6feb&hide_border=true" height="192px" alt="Top Languages" />
-  
-  <br/><br/>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manelrx/Manelrx/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manelrx/Manelrx/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Manelrx/Manelrx/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+
+| `SEC_OPS` 🛡️ | `INFRA_OPS` ⚙️ | `GOVERNANCE & DEV` 📑 |
+| :--- | :--- | :--- |
+| **Monitoramento:** Wazuh, Graylog, SIEM <br> **Defesa:** Firewalls Fortinet, IAM, EDR <br> **Vuln. Management:** Nessus, ZAP <br> **Resposta a Incidentes** & Hardening | **Core Systems:** Windows Server, AD <br> **Networking:** Cisco, TCP/IP, VPN <br> **Serviços:** Linux, Docker, Nginx <br> **Arquitetura:** Segmentação e Redundância | **Compliance:** ISO 27001, Frameworks <br> **Riscos:** Gestão de ciclo de vida <br> **Automação:** Python, Bash, DevOps <br> **Workflows:** Power Automate |
+
 </div>
 
-### 📡 Comm Link
+<br>
+
+### ≡ 03. TACTICAL_STACK
+
+*Configuração tática padronizada para furtividade e eficiência.*
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=1f6feb&color=0d1117" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=1f6feb&color=0d1117" alt="Email"/></a>
-  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=dev.to&logoColor=1f6feb&color=0d1117" alt="Portfolio"/></a>
+
+<details open>
+<summary><b>🛡️ Segurança Ofensiva & Defensiva</b></summary>
+<br>
+<img src="https://img.shields.io/badge/Fortinet-0d1117?style=for-the-badge&logo=fortinet&logoColor=58a6ff&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Wazuh-0d1117?style=for-the-badge&logo=wazuh&logoColor=58a6ff&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Graylog-0d1117?style=for-the-badge&logo=graylog&logoColor=58a6ff&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Nessus-0d1117?style=for-the-badge&logo=tenable&logoColor=58a6ff&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=58a6ff&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=58a6ff&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/OWASP-0d1117?style=for-the-badge&logo=owasp&logoColor=58a6ff&labelColor=161b22"/>
+</details>
+
+<details open>
+<summary><b>⚙️ Infraestrutura Crítica & Redes</b></summary>
+<br>
+<img src="https://img.shields.io/badge/Windows_Server-0d1117?style=for-the-badge&logo=windows&logoColor=58a6ff&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Active_Directory-0d1117?style=for-the-badge&logo=microsoft&logoColor=58a6ff&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Linux_Stack-0d1117?style=for-the-badge&logo=linux&logoColor=58a6ff&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=58a6ff&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Nginx_Proxy-0d1117?style=for-the-badge&logo=nginx&logoColor=58a6ff&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Cisco_Routing-0d1117?style=for-the-badge&logo=cisco&logoColor=58a6ff&labelColor=161b22"/>
+</details>
+
+<details open>
+<summary><b>⚡ Engenharia & Automação</b></summary>
+<br>
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=58a6ff&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Bash_Scripts-0d1117?style=for-the-badge&logo=gnubash&logoColor=58a6ff&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=58a6ff&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Power_Automate-0d1117?style=for-the-badge&logo=powerautomate&logoColor=58a6ff&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=58a6ff&labelColor=161b22"/>
+</details>
+
+</div>
+
+<br>
+
+### ≡ 04. CERTIFICATIONS_&_ACCREDITATIONS
+
+<div align="center">
+
+| Certificação | Entidade | Validade |
+|:---|:---|:---:|
+| **Fortinet Certified Fundamentals (FCF)** | Fortinet | `2025 — 2027` |
+| **CCNA: Introduction to Networks** | Cisco Networking Academy | `2024` |
+| **Endpoint Security** | Cisco Networking Academy | `2024` |
+| **Student SOC Program Foundations** | Microsoft | `2025` |
+| **Hackers do Bem (Fund/Básico/Nivel)** | RNP · SENAC · Softex | `2024` |
+
+<br>
+
+<img src="https://img.shields.io/badge/FCF_Cybersecurity-0d1117?style=flat-square&logo=fortinet&logoColor=58a6ff&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/CCNA_ITN-0d1117?style=flat-square&logo=cisco&logoColor=58a6ff&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/Endpoint_Security-0d1117?style=flat-square&logo=cisco&logoColor=58a6ff&labelColor=161b22"/>
+<img src="https://img.shields.io/badge/ISC2_Candidate-0d1117?style=flat-square&logo=isc2&logoColor=58a6ff&labelColor=161b22"/>
+
+</div>
+
+<br>
+
+### ≡ 05. FIELD_EXPERIENCE
+
+> **[Assistente de Informática] — Sicoob Credfaz** (`Nov/2021 — Atual`)  
+> *Operação técnica e proteção de infraestrutura em cooperativa financeira regulada.*
+> 
+> - **SecOps & Hardening**: Implementação contínua de controles de segurança em todo o parque de TI.
+> - **Infra Real-World**: Sustentação de servidores bare-metal e ambientes virtualizados de missão crítica.
+> - **Automação & Orquestração**: Redução massiva de trabalho manual via scripts Python, Bash e integrações Microsoft Power Automate.
+> - **Compliance & Auditoria**: Participação ativa e conformidade com auditorias centrais e ISO 27001/2.
+> - **Tooling Deploy**: Implantação de soluções de gestão de ativos e monitoramento (Snipe-IT, Netbox, Vaultwarden).
+
+> **[Auxiliar Administrativo] — Sicoob Credfaz** (`Jan/2020 — Out/2021`)  
+> *Suporte e triagem inicial lidando com processos internos e documentação.*
+
+<br>
+
+### ≡ 06. FEATURED_PROJECTS
+
+<div align="center">
+
+<a href="https://riftscore.com.br" target="_blank">
+  <img src="https://img.shields.io/badge/🎮_RIFTSCORE_APP-riftscore.com.br-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff&labelColor=161b22" alt="RiftScore"/>
+</a>
+<br>
+<sub>Plataforma de análise de desempenho e telemetria para jogos competitivos.<br>Desenvolvimento ponta-a-ponta (Arquitetura, Backend, Frontend e Deploy).</sub>
+
+</div>
+
+<br>
+
+### ≡ 07. GITHUB_TELEMETRY
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Manelrx/Manelrx/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Manelrx/Manelrx/blob/output/github-snake-dark.svg" />
+  <img alt="Snake animation" src="https://github.com/Manelrx/Manelrx/blob/output/github-snake-dark.svg" />
+</picture>
+
+<br><br>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Manelrx&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="Stats"/>
+&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manelrx&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Languages"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manelrx&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=8b949e&dates=6e7681" alt="Streak" width="600"/>
+
+</div>
+
+<br>
+
+### ≡ 08. SECURE_COMMUNICATION
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/emanuel-ara%C3%BAjo-759483218/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=161b22" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:emanuel-morais@outlook.com">
+  <img src="https://img.shields.io/badge/Email_Direto-0d1117?style=for-the-badge&logo=microsoftoutlook&logoColor=58a6ff&labelColor=161b22" alt="Outlook"/>
+</a>
+
+<br><br><br>
+
+<div style="font-family: monospace; color: #58a6ff; font-size: 14px;">
+  [~] % exit <br>
+  > Session terminated.
+</div>
+
 </div>
