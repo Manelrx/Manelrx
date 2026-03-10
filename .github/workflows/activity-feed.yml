@@ -1,9 +1,6 @@
 name: Update GitHub Activity Feed
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
@@ -20,7 +17,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          README_FILE: README.md
+          TARGET_FILE: README.md
           COMMIT_MSG: "⚡ Update GitHub Activity Feed (pt-BR)"
           MAX_LINES: 5
 
@@ -33,6 +30,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          README_FILE: README_EN.md
+          TARGET_FILE: README_EN.md
           COMMIT_MSG: "⚡ Update GitHub Activity Feed (en-US)"
           MAX_LINES: 5
