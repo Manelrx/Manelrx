@@ -1,4 +1,4 @@
-::: {align="center"}
+<div ::: {align="center"}
 `<a href="README.md">`{=html}
 `<img src="https://img.shields.io/badge/🇧🇷_PT-0d1117?style=for-the-badge&logoColor=white" alt="Português"/>`{=html}
 `</a>`{=html} `<a href="README_EN.md">`{=html}
