@@ -5,11 +5,11 @@
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
 <a href="README.md">
-  <img src="https://img.shields.io/badge/🇧🇷_Português-0d1117?style=for-the-badge" alt="Português"/>
+  <img src="https://img.shields.io/badge/🇧🇷_Português-30363d?style=for-the-badge" alt="Português"/>
 </a>
 &nbsp;
 <a href="README_EN.md">
-  <img src="https://img.shields.io/badge/🇺🇸_English-30363d?style=for-the-badge" alt="English"/>
+  <img src="https://img.shields.io/badge/🇺🇸_English-0d1117?style=for-the-badge" alt="English"/>
 </a>
 
 <br/><br/>
@@ -26,7 +26,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+%E2%80%A2+Infrastructure+%E2%80%A2+Governance;Protejo+infraestruturas.+Fortale%C3%A7o+defesas.+Automatizo+processos." alt="Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+%E2%80%A2+Infrastructure+%E2%80%A2+Governance;I+protect+infrastructures.+I+strengthen+defenses.+I+automate+processes." alt="Subtitle" />
 
 <br/>
 
@@ -35,16 +35,16 @@
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
 <a href="https://manelrx.github.io/portifolio/" target="_blank">
-  <img src="https://img.shields.io/badge/✦_PORTFÓLIO-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Portfólio"/>
+  <img src="https://img.shields.io/badge/✦_PORTFOLIO-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Portfolio"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/4%2B_ANOS_DE_XP-1a6b3c?style=for-the-badge&labelColor=0d1117" alt="Experiência"/>
+<img src="https://img.shields.io/badge/4%2B_YEARS_OF_XP-1a6b3c?style=for-the-badge&labelColor=0d1117" alt="Experience"/>
 &nbsp;
-<img src="https://img.shields.io/badge/ABERTO_A_OPORTUNIDADES-238636?style=for-the-badge&labelColor=0d1117" alt="Status"/>
+<img src="https://img.shields.io/badge/OPEN_TO_OPPORTUNITIES-238636?style=for-the-badge&labelColor=0d1117" alt="Status"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Manelrx&color=58a6ff&style=flat-square&label=Visitas+ao+Perfil" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Manelrx&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile views"/>
 
 </div>
 
@@ -54,28 +54,28 @@
 <!--                           ABOUT ME                               -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="28" height="28" /> **Sobre Mim**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="28" height="28" /> **About Me**
 
 <div align="center">
 
 ```yaml
-nome: "Emanuel Araújo"
-cargo: "Especialista em Infraestrutura & Segurança da Informação"
-empresa: "Sicoob Credfaz"
-localização: "Brasil 🇧🇷"
+name: "Emanuel Araújo"
+role: "Infrastructure & Information Security Specialist"
+company: "Sicoob Credfaz"
+location: "Brazil 🇧🇷"
 
-formação:
-  pós_graduação: "Segurança da Informação — Faculdade Focus (2025)"
-  graduação: "Ciência da Computação — UNIP (2023)"
+education:
+  postgraduate: "Information Security — Faculdade Focus (2025)"
+  undergraduate: "Computer Science — UNIP (2023)"
 
-resumo: >
-  +4 anos protegendo infraestrutura tecnológica em cooperativa
-  financeira regulada pelo Banco Central. Atuo na interseção entre
-  segurança da informação, governança de TI e automação — garantindo
-  que cada camada do ambiente esteja segura, documentada e em
-  conformidade.
+summary: >
+  4+ years protecting technology infrastructure for a financial
+  cooperative regulated by Brazil's Central Bank. Working at the
+  intersection of information security, IT governance and automation
+  — ensuring every layer of the technology environment is secure,
+  documented and compliant.
 
-missão: "Proteger. Fortalecer. Automatizar."
+mission: "Protect. Strengthen. Automate."
 ```
 
 </div>
@@ -86,15 +86,15 @@ missão: "Proteger. Fortalecer. Automatizar."
 <!--                       EXPERTISE AREAS                            -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Lock" width="28" height="28" /> **Domínios de Atuação**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Lock" width="28" height="28" /> **Areas of Expertise**
 
 <br/>
 
 <div align="center">
 
-> `Segurança da Informação` · `Infraestrutura de TI` · `Governança & Compliance` · `Gestão de Riscos`
+> `Information Security` · `IT Infrastructure` · `Governance & Compliance` · `Risk Management`
 > 
-> `Automação de Processos` · `Gestão de Ativos` · `Business Intelligence` · `Operações & Suporte`
+> `Process Automation` · `IT Asset Management` · `Business Intelligence` · `Operations & Support`
 
 </div>
 
@@ -104,7 +104,7 @@ missão: "Proteger. Fortalecer. Automatizar."
 <!--                    SECURITY OPERATIONS MAP                       -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe" width="28" height="28" /> **Mapa de Operações**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe" width="28" height="28" /> **Operations Map**
 
 <br/>
 
@@ -128,9 +128,9 @@ missão: "Proteger. Fortalecer. Automatizar."
 ╠──────────────────────────────────╬─────────────────────────────────╣
 ║  Windows Server · Active Dir.    ║  ISO 27001 / 27002              ║
 ║  Linux (Ubuntu · Kali)           ║  NIST Cybersecurity Framework   ║
-║  Docker · Nginx · Proxy Rev.     ║  OWASP Top 10                   ║
-║  VPN · MPLS · Segmentação        ║  Gestão de Riscos               ║
-║  TCP/IP · Cisco · Roteamento     ║  Auditorias Internas & Externas ║
+║  Docker · Nginx · Reverse Proxy  ║  OWASP Top 10                   ║
+║  VPN · MPLS · Network Segment.   ║  Risk Management                ║
+║  TCP/IP · Cisco · Routing        ║  Internal & External Audits     ║
 ╚══════════════════════════════════╩═════════════════════════════════╝
 ```
 
@@ -142,14 +142,14 @@ missão: "Proteger. Fortalecer. Automatizar."
 <!--                       TECH ARSENAL                               -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" height="28" /> **Arsenal Tecnológico**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" height="28" /> **Tech Arsenal**
 
 <br/>
 
 <div align="center">
 
 <details open>
-<summary><b>&nbsp;🛡️&nbsp; Segurança Ofensiva & Defensiva</b></summary>
+<summary><b>&nbsp;🛡️&nbsp; Offensive & Defensive Security</b></summary>
 <br/>
 
 <img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="Fortinet"/>
@@ -165,7 +165,7 @@ missão: "Proteger. Fortalecer. Automatizar."
 </details>
 
 <details open>
-<summary><b>&nbsp;🏗️&nbsp; Infraestrutura & Sistemas</b></summary>
+<summary><b>&nbsp;🏗️&nbsp; Infrastructure & Systems</b></summary>
 <br/>
 
 <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows Server"/>
@@ -180,7 +180,7 @@ missão: "Proteger. Fortalecer. Automatizar."
 </details>
 
 <details open>
-<summary><b>&nbsp;💻&nbsp; Dev & Automação</b></summary>
+<summary><b>&nbsp;💻&nbsp; Dev & Automation</b></summary>
 <br/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -201,22 +201,22 @@ missão: "Proteger. Fortalecer. Automatizar."
 <!--                       CERTIFICATIONS                             -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="28" height="28" /> **Certificações & Badges**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="28" height="28" /> **Certifications & Badges**
 
 <br/>
 
 <div align="center">
 
-| Certificação | Emissor | Período |
+| Certification | Issuer | Period |
 |:---|:---|:---:|
 | **Fortinet Certified Fundamentals Cybersecurity** | Fortinet | `2025 — 2027` |
 | **CCNA: Introduction to Networks** | SENAI-SC · Cisco Academy | `2024` |
 | **Endpoint Security** | Cisco Networking Academy | `2024` |
-| **Santander Bootcamp Cibersegurança #2** | DIO · Santander | `2025` |
+| **Santander Bootcamp Cybersecurity #2** | DIO · Santander | `2025` |
 | **Student SOC Program Foundations** | Microsoft | `2025` |
-| **Hackers do Bem — Fundamental / Básico / Nivelamento** | RNP · SENAC · Softex | `2024` |
-| **Resiliência Cibernética e Privacidade de Dados** | CNAC | `2024` |
-| **Python do Iniciante ao Avançado** | Udemy | `2023` |
+| **Hackers do Bem — Fundamental / Basic / Leveling** | RNP · SENAC · Softex | `2024` |
+| **Cyber Resilience and Data Privacy** | CNAC | `2024` |
+| **Python from Beginner to Advanced** | Udemy | `2023` |
 
 <br/>
 
@@ -236,7 +236,7 @@ missão: "Proteger. Fortalecer. Automatizar."
 <!--                       EXPERIENCE                                -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="28" height="28" /> **Experiência Profissional**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="28" height="28" /> **Professional Experience**
 
 <br/>
 
@@ -244,28 +244,28 @@ missão: "Proteger. Fortalecer. Automatizar."
 <tr>
 <td>
 
-### Assistente de Informática — Sicoob Credfaz
-`Nov/2021 — Atual` · Cooperativa financeira regulada pelo Banco Central
+### IT Assistant — Sicoob Credfaz
+`Nov/2021 — Present` · Financial cooperative regulated by Brazil's Central Bank
 
-Responsável técnico pela operação e segurança da infraestrutura de TI.
+Technical lead for IT infrastructure operations and security.
 
-- Implementação e manutenção de **controles de segurança da informação**
-- Sustentação e evolução da **infraestrutura tecnológica**
-- Suporte técnico a **auditorias internas e externas** de TI
-- **Gestão de riscos** operacionais de TI e implementação de controles
-- **Automação** de processos com Python e Power Automate
-- Gestão de **ativos tecnológicos** e controle de ciclo de vida
-- Implantação de **Snipe-IT**, **Netbox**, **Vaultwarden** e **Eramba**
+- Implementation and maintenance of **information security controls**
+- Management and evolution of the **technology infrastructure**
+- Technical support for **internal and external IT audits**
+- IT **operational risk management** and control implementation
+- Process **automation** with Python and Power Automate
+- **IT asset management** and lifecycle control
+- Deployment of **Snipe-IT**, **Netbox**, **Vaultwarden** and **Eramba**
 
 </td>
 </tr>
 <tr>
 <td>
 
-### Auxiliar Administrativo — Sicoob Credfaz
-`Jan/2020 — Out/2021`
+### Administrative Assistant — Sicoob Credfaz
+`Jan/2020 — Oct/2021`
 
-Atendimento ao cliente, suporte técnico, organização de processos internos e elaboração de documentos.
+Customer service, technical support, internal process organization and document preparation.
 
 </td>
 </tr>
@@ -277,7 +277,7 @@ Atendimento ao cliente, suporte técnico, organização de processos internos e 
 <!--                         PROJECTS                                 -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="28" height="28" /> **Projetos**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="28" height="28" /> **Projects**
 
 <br/>
 
@@ -289,8 +289,8 @@ Atendimento ao cliente, suporte técnico, organização de processos internos e 
 
 <br/><br/>
 
-> Plataforma de análise de desempenho em jogos competitivos.  
-> Desenvolvimento full-stack independente — da concepção à publicação.
+> Competitive gaming performance analysis platform.  
+> Independent full-stack development — from concept to production.
 
 </div>
 
@@ -316,7 +316,7 @@ Atendimento ao cliente, suporte técnico, organização de processos internos e 
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manelrx&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=1a6b3c&area=true&hide_border=true&custom_title=Contribuições" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manelrx&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=1a6b3c&area=true&hide_border=true&custom_title=Contributions" width="95%" alt="Activity Graph"/>
 
 </div>
 
@@ -349,7 +349,7 @@ Atendimento ao cliente, suporte técnico, organização de processos internos e 
 <br/><br/>
 
 <a href="https://manelrx.github.io/portifolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfólio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff" alt="Portfólio"/>
+  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff" alt="Portfolio"/>
 </a>
 &nbsp;
 <a href="mailto:emanuel-morais@outlook.com">
