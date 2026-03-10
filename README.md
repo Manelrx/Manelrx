@@ -44,6 +44,12 @@
 
 <br/><br/>
 
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manelrx&theme=discord&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</a>
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=Manelrx&color=58a6ff&style=for-the-badge&label=Visitas+ao+Perfil" alt="Profile views"/>
 
 </div>
@@ -317,6 +323,23 @@ Atendimento ao cliente, suporte técnico, organização de processos internos e 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manelrx&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=1a6b3c&area=true&hide_border=true&custom_title=Contribuições" width="95%" alt="Activity Graph"/>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                         ACTIVITY FEED                            -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="28" height="28" /> **Registro de Atividades**
+
+<br/>
+
+<div align="center">
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 </div>
 
