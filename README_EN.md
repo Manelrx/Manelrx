@@ -381,28 +381,24 @@ mission: "Protect. Fortify. Automate."
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Mail" width="28" height="28" />
-
-<br/><br/>
-
-<a href="https://manelrx.github.io/portifolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="mailto:emanuel-morais@outlook.com">
-  <img src="https://img.shields.io/badge/Outlook-0d1117?style=for-the-badge&logo=microsoftoutlook&logoColor=0078D4" alt="Outlook"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/emanuel-ara%C3%BAjo-759483218/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://github.com/Manelrx" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=c9d1d9" alt="GitHub"/>
-</a>
-
-<br/><br/>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Mail" width="28" height="28" />
+  <br/><br/>
+  <h2>🌐 Let's Connect!</h2>
+  <p>Always open to discussing <b>Security</b>, <b>Infrastructure</b>, or new opportunities.</p>
+  
+  <a href="https://portfolio.emanuelrx.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white&borderColor=58a6ff" alt="Portfolio" />
+  </a>&nbsp;
+  <a href="mailto:contato@emanuelrx.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/emanuel-rx/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://github.com/Manelrx">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <br/><br/>
 
 <sub>
 
