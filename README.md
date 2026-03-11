@@ -387,16 +387,16 @@ missão: "Proteger. Fortalecer. Automatizar."
   <p>Sempre aberto para discutir sobre <b>Segurança</b>, <b>Infraestrutura</b> ou novas oportunidades.</p>
   
   <a href="https://portfolio.emanuelrx.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-0d1117?style=for-the-badge&logo=vercel&logoColor=white&borderColor=58a6ff" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfólio-0d1117?style=flat-square&logo=vercel&logoColor=white&borderColor=58a6ff" height="28" alt="Portfolio" />
   </a>&nbsp;
   <a href="mailto:contato@emanuelrx.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" alt="Email" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/emanuel-rx/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/CONNECTAR_NO_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
   <a href="https://github.com/Manelrx">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28" alt="GitHub" />
   </a>
   <br/><br/>
 
