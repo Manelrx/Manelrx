@@ -288,14 +288,30 @@ mission: "Protect. Fortify. Automate."
 
 <div align="center">
 
-<a href="https://riftscore.com.br">
-  <img src="https://img.shields.io/badge/🎮_RiftScore-riftscore.com.br-58a6ff?style=for-the-badge&labelColor=0d1117" alt="RiftScore"/>
-</a>
-
-<br/><br/>
-
-> Performance analysis platform for competitive gaming.  
-> Independent full-stack development — from conception to publication.
+<table>
+  <tr>
+    <td align="center" width="150">
+      <br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="80" alt="Game"/>
+      <br/><br/>
+      <a href="https://riftscore.com.br" target="_blank">
+        <img src="https://img.shields.io/badge/Visit-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Website"/>
+      </a>
+    </td>
+    <td>
+      <h3>🎮 <a href="https://riftscore.com.br" target="_blank">RiftScore</a></h3>
+      <p><b>Performance analysis platform for competitive gaming.</b></p>
+      <p>Independent full-stack development — from conception to publication. Encompasses cloud infrastructure, data collection via APIs, automation, and secure development practices (DevSecOps).</p>
+      <br/>
+      <b>Tech Stack:</b><br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
