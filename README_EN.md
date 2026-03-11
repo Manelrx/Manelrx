@@ -14,17 +14,13 @@
 
 <br/><br/>
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                         HEADER BANNER                            -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<a href="https://portfolio.emanuelrx.com">
+<a href="https://manelrx.github.io/portifolio/">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:58a6ff,50:0d1117,75:58a6ff,100:0d1117&height=220&section=header&text=Emanuel%20Ara%C3%BAjo&fontAlignY=35&fontSize=50&animation=twinkling&fontColor=ffffff&desc=Cybersecurity%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Governance&descAlignY=55&descSize=18" alt="header"/>
 </a>
 
 <br/><br/>
 
-<a href="https://portfolio.emanuelrx.com">
+<a href="https://manelrx.github.io/portifolio/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E_I+protect+your+infrastructure.;%3E_I+fortify+your+defenses.;%3E_I+automate+your+processes." alt="Terminal Typing Subtitle" />
 </a>
 
@@ -38,12 +34,12 @@
   <tr>
     <td align="center" width="250">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40" alt="Rocket"/><br/>
-      <a href="https://portfolio.emanuelrx.com" target="_blank">
+      <a href="https://manelrx.github.io/portifolio/" target="_blank">
         <img src="https://img.shields.io/badge/Visit_Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff&borderColor=58a6ff" alt="Portfolio"/>
       </a>
     </td>
     <td align="center" width="250">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" width="40" alt="Bullseye"/><br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="40" alt="Star"/><br/>
       <img src="https://img.shields.io/badge/4+_Years_of_Experience-0d1117?style=for-the-badge&logo=rocket&logoColor=238636&borderColor=238636" alt="Experience"/>
     </td>
     <td align="center" width="250">
@@ -397,7 +393,7 @@ mission: "Protect. Fortify. Automate."
   <h2>🌐 Let's Connect!</h2>
   <p>Always open to discussing <b>Security</b>, <b>Infrastructure</b>, or new opportunities.</p>
   
-  <a href="https://portfolio.emanuelrx.com" target="_blank">
+  <a href="https://manelrx.github.io/portifolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=white&borderColor=58a6ff" height="28" alt="Portfolio" />
   </a>&nbsp;
   <a href="mailto:emanuel-morais@outlook.com">
