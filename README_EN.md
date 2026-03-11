@@ -44,12 +44,6 @@
 
 <br/><br/>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manelrx&theme=discord&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</a>
-
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=Manelrx&color=58a6ff&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
 
 </div>
@@ -98,9 +92,12 @@ mission: "Protect. Fortify. Automate."
 
 <div align="center">
 
-> `Information Security` · `IT Infrastructure` · `Governance & Compliance` · `Risk Management`
-> 
-> `Process Automation` · `Asset Management` · `Business Intelligence` · `Operations & Support`
+| 🔒 Security & Governance | 🏗️ Infrastructure & Operations | ⚙️ Automation & Analytics |
+|:---:|:---:|:---:|
+| *Defensive Security (Blue Team)* | *Windows Server & Linux* | *Python & Bash Scripting* |
+| *Vulnerability Management* | *Networks & Segmentation* | *Power Automate* |
+| *ISO 27001 Framework* | *Asset Management (DCIM)* | *Data Extraction & BI* |
+| *Incident Response* | *Continuous Monitoring* | *Process Optimization* |
 
 </div>
 
