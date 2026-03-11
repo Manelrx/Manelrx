@@ -14,11 +14,23 @@
 
 <br/><br/>
 
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                         HEADER BANNER                            -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
 <a href="https://manelrx.github.io/portifolio/">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:58a6ff,50:0d1117,75:58a6ff,100:0d1117&height=220&section=header&text=Emanuel%20Ara%C3%BAjo&fontAlignY=35&fontSize=50&animation=twinkling&fontColor=ffffff&desc=Cybersecurity%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Governance&descAlignY=55&descSize=18" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:58a6ff,50:0d1117,75:58a6ff,100:0d1117&height=120&section=header&animation=twinkling" alt="header"/>
 </a>
 
-<br/><br/>
+<a href="https://manelrx.github.io/portifolio/">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=55&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&width=800&height=80&lines=Emanuel+Ara%C3%BAjo" alt="Emanuel Araújo" />
+</a>
+
+<a href="https://manelrx.github.io/portifolio/">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=16&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&width=800&height=40&lines=Cybersecurity+%E2%80%A2+Infrastructure+%E2%80%A2+Governance" alt="Roles" />
+</a>
+
+<br/>
 
 <a href="https://manelrx.github.io/portifolio/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E_Protejo+sua+infraestrutura.;%3E_Fortale%C3%A7o+suas+defesas.;%3E_Automatizo+seus+processos." alt="Terminal Typing Subtitle" />
