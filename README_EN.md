@@ -371,6 +371,8 @@ mission: "Protect. Fortify. Automate."
 <div align="center">
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/Manelrx/site_JustGo/pull/1) in [Manelrx/site_JustGo](https://github.com/Manelrx/site_JustGo)
+2. 💪 Opened PR [#1](https://github.com/Manelrx/site_JustGo/pull/1) in [Manelrx/site_JustGo](https://github.com/Manelrx/site_JustGo)
 <!--END_SECTION:activity-->
 
 </div>
