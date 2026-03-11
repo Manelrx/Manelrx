@@ -34,15 +34,26 @@
 <!--                         STATUS BADGES                            -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<a href="https://manelrx.github.io/portifolio/" target="_blank">
-  <img src="https://img.shields.io/badge/✦_PORTFOLIO-58a6ff?style=for-the-badge&labelColor=0d1117" alt="Portfolio"/>
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/4%2B_YEARS_OF_XP-1a6b3c?style=for-the-badge&labelColor=0d1117" alt="Experience"/>
-&nbsp;
-<img src="https://img.shields.io/badge/OPEN_TO_OPPORTUNITIES-238636?style=for-the-badge&labelColor=0d1117" alt="Status"/>
+<table>
+  <tr>
+    <td align="center" width="250">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40" alt="Rocket"/><br/>
+      <a href="https://portfolio.emanuelrx.com" target="_blank">
+        <img src="https://img.shields.io/badge/Visit_Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff&borderColor=58a6ff" alt="Portfolio"/>
+      </a>
+    </td>
+    <td align="center" width="250">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Direct%20Hit.png" width="40" alt="Bullseye"/><br/>
+      <img src="https://img.shields.io/badge/4+_Years_of_Experience-0d1117?style=for-the-badge&logo=rocket&logoColor=238636&borderColor=238636" alt="Experience"/>
+    </td>
+    <td align="center" width="250">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="40" alt="Briefcase"/><br/>
+      <img src="https://img.shields.io/badge/Open_To_Opportunities-0d1117?style=for-the-badge&logo=codeigniter&logoColor=ff7b72&borderColor=ff7b72" alt="Status"/>
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Manelrx&color=58a6ff&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
 
