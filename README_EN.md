@@ -18,15 +18,15 @@
 <!--                         HEADER BANNER                            -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a6b3c,75:161b22,100:0d1117&height=200&section=header&text=&fontSize=0" alt="header"/>
+<a href="https://portfolio.emanuelrx.com">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:58a6ff,50:0d1117,75:58a6ff,100:0d1117&height=220&section=header&text=Emanuel%20Ara%C3%BAjo&fontAlignY=35&fontSize=50&animation=twinkling&fontColor=ffffff&desc=Cybersecurity%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Governance&descAlignY=55&descSize=18" alt="header"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Emanuel+Ara%C3%BAjo" alt="Name" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%9B%A1%EF%B8%8F+Cybersecurity+%E2%80%A2+Infrastructure+%E2%80%A2+Governance;I+protect+infrastructures.+I+fortify+defenses.+I+automate+processes." alt="Subtitle" />
+<a href="https://portfolio.emanuelrx.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E_I+protect+your+infrastructure.;%3E_I+fortify+your+defenses.;%3E_I+automate+your+processes." alt="Terminal Typing Subtitle" />
+</a>
 
 <br/>
 
@@ -389,7 +389,7 @@ mission: "Protect. Fortify. Automate."
   <a href="https://portfolio.emanuelrx.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=white&borderColor=58a6ff" height="28" alt="Portfolio" />
   </a>&nbsp;
-  <a href="mailto:contato@emanuelrx.com">
+  <a href="mailto:emanuel-morais@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" alt="Email" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/emanuel-rx/">
