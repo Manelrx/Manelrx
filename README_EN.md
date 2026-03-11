@@ -1,18 +1,6 @@
 <div align="center">
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                         LANGUAGE TOGGLE                          -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<a href="README.md">
-  <img src="https://img.shields.io/badge/🇧🇷_Português-30363d?style=for-the-badge" alt="Português"/>
-</a>
-&nbsp;
-<a href="README_EN.md">
-  <img src="https://img.shields.io/badge/🇺🇸_English-0d1117?style=for-the-badge" alt="English"/>
-</a>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
 <!--                         HEADER BANNER                            -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
@@ -21,47 +9,34 @@
 </a>
 
 <a href="https://manelrx.github.io/portifolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=55&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&width=800&height=80&lines=Emanuel+Ara%C3%BAjo" alt="Emanuel Araújo" />
-</a>
-
-<a href="https://manelrx.github.io/portifolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=16&duration=4000&pause=2000&color=8B949E&center=true&vCenter=true&width=800&height=40&lines=Cybersecurity+%E2%80%A2+Infrastructure+%E2%80%A2+Governance" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=50&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&width=800&height=80&lines=Emanuel+Ara%C3%BAjo" alt="Emanuel Araújo" />
 </a>
 
 <br/>
 
 <a href="https://manelrx.github.io/portifolio/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%3E_I+protect+your+infrastructure.;%3E_I+fortify+your+defenses.;%3E_I+automate+your+processes." alt="Terminal Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1500&color=8B949E&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%E2%94%8C%E2%94%80+Cybersecurity+%C2%B7+Infrastructure+%C2%B7+Governance;%E2%94%94%E2%94%80+Protect.+Fortify.+Automate." alt="Tagline" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                         STATUS BADGES                            -->
+<!--                          QUICK LINKS                             -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<table>
-  <tr>
-    <td align="center" width="250">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="40" alt="Rocket"/><br/>
-      <a href="https://manelrx.github.io/portifolio/" target="_blank">
-        <img src="https://img.shields.io/badge/Visit_Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58a6ff&borderColor=58a6ff" alt="Portfolio"/>
-      </a>
-    </td>
-    <td align="center" width="250">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="40" alt="Star"/><br/>
-      <img src="https://img.shields.io/badge/4+_Years_of_Experience-0d1117?style=for-the-badge&logo=rocket&logoColor=238636&borderColor=238636" alt="Experience"/>
-    </td>
-    <td align="center" width="250">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="40" alt="Briefcase"/><br/>
-      <img src="https://img.shields.io/badge/Open_To_Opportunities-0d1117?style=for-the-badge&logo=codeigniter&logoColor=ff7b72&borderColor=ff7b72" alt="Status"/>
-    </td>
-  </tr>
-</table>
+<a href="https://manelrx.github.io/portifolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=0d1117" alt="Portfolio"/>
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/emanuel-rx/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>&nbsp;
+<a href="mailto:emanuel-morais@outlook.com">
+  <img src="https://img.shields.io/badge/Email-8B949E?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Manelrx&color=58a6ff&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Manelrx&color=30363d&style=flat-square&label=views" alt="Profile views"/>
 
 </div>
 
@@ -71,28 +46,18 @@
 <!--                           ABOUT ME                               -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="Shield" width="28" height="28" /> **About Me**
-
 <div align="center">
 
-```yaml
-name: "Emanuel Araújo"
-role: "Information Security & Infrastructure Specialist"
-company: "Sicoob Credfaz"
-location: "Brazil 🇧🇷"
-
-education:
-  postgraduate: "Information Security — Focus Faculty (2025)"
-  undergraduate: "Computer Science — UNIP (2023)"
-
-summary: >
-  +4 years protecting technological infrastructure in a financial
-  cooperative regulated by the Central Bank of Brazil. I work at 
-  the intersection of information security, IT governance, and 
-  automation — ensuring each layer of the environment is secure, 
-  documented, and compliant.
-
-mission: "Protect. Fortify. Automate."
+```
+ ╭──────────────────────────────────────────────────────────╮
+ │                                                          │
+ │   Passionate about information security, governance      │
+ │   and infrastructure automation. Exploring the           │
+ │   intersection of cyber defense and systems              │
+ │   engineering — always seeking to protect, document      │
+ │   and optimize.                                          │
+ │                                                          │
+ ╰──────────────────────────────────────────────────────────╯
 ```
 
 </div>
@@ -100,10 +65,10 @@ mission: "Protect. Fortify. Automate."
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                       EXPERTISE AREAS                            -->
+<!--                       KNOWLEDGE DOMAINS                          -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Lock" width="28" height="28" /> **Domains of Expertise**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" alt="Lock" width="28" height="28" /> **Knowledge Domains**
 
 <br/>
 
@@ -124,7 +89,7 @@ mission: "Protect. Fortify. Automate."
 <!--                    SECURITY OPERATIONS MAP                       -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe" width="28" height="28" /> **Map of Operations**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe" width="28" height="28" /> **Security Operations**
 
 <br/>
 
@@ -162,7 +127,7 @@ mission: "Protect. Fortify. Automate."
 <!--                       TECH ARSENAL                               -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" height="28" /> **Technological Arsenal**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" height="28" /> **Tech Arsenal**
 
 <br/>
 
@@ -227,16 +192,16 @@ mission: "Protect. Fortify. Automate."
 
 <div align="center">
 
-| Certification | Issuer | Period |
-|:---|:---|:---:|
-| **Fortinet Certified Fundamentals Cybersecurity** | Fortinet | `2025 — 2027` |
-| **CCNA: Introduction to Networks** | SENAI-SC · Cisco Academy | `2024` |
-| **Endpoint Security** | Cisco Networking Academy | `2024` |
-| **Santander Cybersecurity Bootcamp #2** | DIO · Santander | `2025` |
-| **Student SOC Program Foundations** | Microsoft | `2025` |
-| **Hackers do Bem — Fundamental / Basic / Leveling** | RNP · SENAC · Softex | `2024` |
-| **Cyber Resilience and Data Privacy** | CNAC | `2024` |
-| **Python from Beginner to Advanced** | Udemy | `2023` |
+| Certification | Issuer |
+|:---|:---|
+| **Fortinet Certified Fundamentals Cybersecurity** | Fortinet |
+| **CCNA: Introduction to Networks** | SENAI-SC · Cisco Academy |
+| **Endpoint Security** | Cisco Networking Academy |
+| **Santander Cybersecurity Bootcamp #2** | DIO · Santander |
+| **Student SOC Program Foundations** | Microsoft |
+| **Hackers do Bem — Fundamental / Basic / Leveling** | RNP · SENAC · Softex |
+| **Cyber Resilience & Data Privacy** | CNAC |
+| **Python — Beginner to Advanced** | Udemy |
 
 <br/>
 
@@ -249,49 +214,6 @@ mission: "Protect. Fortify. Automate."
 <img src="https://img.shields.io/badge/Learn--A--Thon_2024-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 </div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                       EXPERIENCE                                -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="28" height="28" /> **Professional Experience**
-
-<br/>
-
-<table>
-  <tr>
-    <td valign="top" width="80" align="center">
-      <br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bank.png" alt="Bank" width="50" height="50" />
-    </td>
-    <td valign="top">
-      <h3>🛡️ IT Infrastructure Analyst</h3>
-      <b>Sicoob Credfaz</b> • <i>Nov/2021 — Present</i><br/>
-      <sub>Financial Institution (Regulated by the Central Bank of Brazil)</sub><br/><br/>
-      Technical lead for the modernization, security, and continuous operation of the IT infrastructure, ensuring high resilience and regulatory compliance.
-      <ul>
-        <li><b>Defensive Security:</b> Implementation and management of security controls (EDR, Firewall, IAM), mitigating vulnerabilities and monitoring threats in real-time with SIEM (Wazuh/Graylog).</li>
-        <li><b>Resilient Infrastructure:</b> Continuous support and improvement of the virtualization environment, Windows/Linux server administration, and network segmentation (Cisco/Fortinet).</li>
-        <li><b>Governance & Compliance:</b> Providing active technical assistance during audits (internal and external) and establishing operational Risk Management strategies based on ISO 27001.</li>
-        <li><b>Automation Engineering:</b> Developing serverless architectures and open-source scripts (Python/Bash) for expedited incident response and routine telemetry data extraction.</li>
-        <li><b>Enterprise Ecosystems:</b> Zero-to-production deployment and administration of platforms such as <b>Snipe-IT</b> (Assets), <b>Netbox</b> (DCIM/IPAM), <b>Vaultwarden</b> (Password Vault), and <b>Eramba</b> (GRC).</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="80" align="center">
-      <br/>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Folders" width="50" height="50" />
-    </td>
-    <td valign="top">
-      <h3>🛠️ Administrative Assistant</h3>
-      <b>Sicoob Credfaz</b> • <i>Jan/2020 — Oct/2021</i><br/><br/>
-      Operational baseline of the branch, resolving Level 1 IT issues, handling highly-secured physical documents, and supporting critical internal processes.
-    </td>
-  </tr>
-</table>
 
 <br/>
 
@@ -318,7 +240,7 @@ mission: "Protect. Fortify. Automate."
     <td>
       <h3>🎮 <a href="https://riftscore.com.br" target="_blank">RiftScore</a></h3>
       <p><b>Performance analysis platform for competitive gaming.</b></p>
-      <p>Independent full-stack development — from conception to publication. Encompasses cloud infrastructure, data collection via APIs, automation, and secure development practices (DevSecOps).</p>
+      <p>Full-stack development — from conception to production. Cloud infrastructure, API data collection, automation and DevSecOps practices.</p>
       <br/>
       <b>Tech Stack:</b><br/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
@@ -361,25 +283,6 @@ mission: "Protect. Fortify. Automate."
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                         ACTIVITY FEED                            -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="28" height="28" /> **Activity Feed**
-
-<br/>
-
-<div align="center">
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Manelrx/site_JustGo/pull/1) in [Manelrx/site_JustGo](https://github.com/Manelrx/site_JustGo)
-2. 💪 Opened PR [#1](https://github.com/Manelrx/site_JustGo/pull/1) in [Manelrx/site_JustGo](https://github.com/Manelrx/site_JustGo)
-<!--END_SECTION:activity-->
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════════ -->
 <!--                       SNAKE ANIMATION                            -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
@@ -396,28 +299,10 @@ mission: "Protect. Fortify. Automate."
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                          CONTACT                                 -->
+<!--                          FOOTER                                  -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Mail" width="28" height="28" />
-  <br/><br/>
-  <h2>🌐 Let's Connect!</h2>
-  <p>Always open to discussing <b>Security</b>, <b>Infrastructure</b>, or new opportunities.</p>
-  
-  <a href="https://manelrx.github.io/portifolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=white&borderColor=58a6ff" height="28" alt="Portfolio" />
-  </a>&nbsp;
-  <a href="mailto:emanuel-morais@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" alt="Email" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/emanuel-rx/">
-    <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="38" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/Manelrx">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28" alt="GitHub" />
-  </a>
-  <br/><br/>
 
 <sub>
 
@@ -425,11 +310,7 @@ mission: "Protect. Fortify. Automate."
 
 </sub>
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--                          FOOTER                                  -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-<br/>
+<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:161b22,50:1a6b3c,75:161b22,100:0d1117&height=120&section=footer" alt="footer"/>
 
