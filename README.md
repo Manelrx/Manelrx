@@ -207,7 +207,7 @@ missão: "Proteger. Fortalecer. Automatizar."
 <!--                       CERTIFICATIONS                             -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="28" height="28" /> **Certificações & Badges**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="28" height="28" /> **Certificações & Badges**
 
 <br/>
 
@@ -247,32 +247,36 @@ missão: "Proteger. Fortalecer. Automatizar."
 <br/>
 
 <table>
-<tr>
-<td>
-
-### 🛡️ Assistente de Informática / IT Analyst — Sicoob Credfaz
-`Nov/2021 — Atual` · *Instituição Financeira Regulada pelo BACEN*
-
-Liderança técnica na modernização, segurança e operação contínua da infraestrutura de TI, garantindo alta disponibilidade e conformidade regulatória.
-
-- **Segurança Defensiva:** Implementação e gestão de controles de segurança (EDR, Firewall, IAM), mitigando vulnerabilidades e monitorando ameaças com **Wazuh** e **Graylog**.
-- **Infraestrutura Resiliente:** Sustentação e evolução do ambiente tecnológico, incluindo gestão de servidores Windows/Linux, virtualização e redes segmentadas.
-- **Governança & Compliance:** Suporte técnico ativo a **auditorias (internas/externas)** e condução da **Gestão de Riscos Operacionais** (Frameworks ISO 27001 / BACEN).
-- **Engenharia de Automação:** Desenvolvimento de scripts (Python/Bash) e automações (Power Automate) para resposta a incidentes, extração de dados e otimização de rotinas.
-- **Gestão de Ecossistema Open Source:** Implantação do zero e administração de plataformas Enterprise: **Snipe-IT** (Ativos), **Netbox** (DCIM/IPAM), **Vaultwarden** (Cofre de Senhas) e **Eramba** (GRC).
-
-</td>
-</tr>
-<tr>
-<td>
-
-### 🛠️ Auxiliar Administrativo — Sicoob Credfaz
-`Jan/2020 — Out/2021`
-
-Base operacional da agência, focado no suporte técnico inicial (N1), organização de malotes de segurança e assistência direta a processos de TI locais.
-
-</td>
-</tr>
+  <tr>
+    <td valign="top" width="80" align="center">
+      <br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bank.png" alt="Bank" width="50" height="50" />
+    </td>
+    <td valign="top">
+      <h3>🛡️ Assistente de Informática / IT Analyst</h3>
+      <b>Sicoob Credfaz</b> • <i>Nov/2021 — Atual</i><br/>
+      <sub>Instituição Financeira (Regulada pelo BACEN)</sub><br/><br/>
+      Liderança técnica na modernização, segurança e operação contínua da infraestrutura de TI, garantindo alta disponibilidade e conformidade regulatória.
+      <ul>
+        <li><b>Segurança Defensiva:</b> Implementação e gestão de controles de segurança (EDR, Firewall, IAM), mitigando vulnerabilidades e monitorando ameaças no SIEM (Wazuh/Graylog).</li>
+        <li><b>Infraestrutura Resiliente:</b> Sustentação e evolução do ambiente de virtualização, gestão de servidores Windows/Linux e segmentação de redes (Cisco/Fortinet).</li>
+        <li><b>Governança & Compliance:</b> Atuação direta em auditorias (internas e externas) e consolidação da gestão de Riscos Operacionais baseada no Framework ISO 27001.</li>
+        <li><b>Engenharia de Automação:</b> Criação de arquiteturas serverless e scripts open-source (Python/Bash) para resposta a incidentes e inteligência de dados.</li>
+        <li><b>Ecossistema de Plataformas:</b> Implantação e administração Enterprise do <b>Snipe-IT</b> (Ativos), <b>Netbox</b> (Rede/DCIM), <b>Vaultwarden</b> (Cofre), e <b>Eramba</b> (GRC).</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="80" align="center">
+      <br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Folders" width="50" height="50" />
+    </td>
+    <td valign="top">
+      <h3>🛠️ Auxiliar Administrativo</h3>
+      <b>Sicoob Credfaz</b> • <i>Jan/2020 — Out/2021</i><br/><br/>
+      Base operacional e organizacional da agência. Atuava como Nível 1 para incidentes de TI, além de lidar com segurança de malotes e documentação crítica interna.
+    </td>
+  </tr>
 </table>
 
 <br/>
@@ -281,7 +285,7 @@ Base operacional da agência, focado no suporte técnico inicial (N1), organiza�
 <!--                         PROJECTS                                 -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="28" height="28" /> **Projetos**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" height="28" /> **Projetos**
 
 <br/>
 

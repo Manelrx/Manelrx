@@ -207,7 +207,7 @@ mission: "Protect. Fortify. Automate."
 <!--                       CERTIFICATIONS                             -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="28" height="28" /> **Certifications & Badges**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="28" height="28" /> **Certifications & Badges**
 
 <br/>
 
@@ -247,32 +247,36 @@ mission: "Protect. Fortify. Automate."
 <br/>
 
 <table>
-<tr>
-<td>
-
-### 🛡️ IT Infrastructure Analyst — Sicoob Credfaz
-`Nov/2021 — Present` · *Financial Institution (Regulated by the Central Bank of Brazil)*
-
-Technical lead for the modernization, security, and continuous operation of the IT infrastructure, ensuring high resilience and regulatory compliance.
-
-- **Defensive Security:** Implementation and management of security controls (EDR, Firewall, IAM), mitigating vulnerabilities and monitoring threats in real-time with **Wazuh** and **Graylog**.
-- **Resilient Infrastructure:** Sustaining and evolving the technological environment, managing Windows/Linux servers, virtualization, and segmented networks.
-- **Governance & Compliance:** Providing active technical support for **audits (internal/external)** and orchestrating operational **Risk Management** (ISO 27001 / BACEN frameworks).
-- **Automation Engineering:** Developing scripts (Python/Bash) and automations (Power Automate) to accelerate incident response, data extraction, and routine optimization.
-- **Enterprise Ecosystem Management:** Zero-to-production deployment and administration of Open Source platforms: **Snipe-IT** (Assets), **Netbox** (DCIM/IPAM), **Vaultwarden** (Password Vault), and **Eramba** (GRC).
-
-</td>
-</tr>
-<tr>
-<td>
-
-### 🛠️ Administrative Assistant — Sicoob Credfaz
-`Jan/2020 — Oct/2021`
-
-Operational baseline of the branch, focusing on initial IT technical support (L1), secure document handling, and assisting with local IT processes.
-
-</td>
-</tr>
+  <tr>
+    <td valign="top" width="80" align="center">
+      <br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Bank.png" alt="Bank" width="50" height="50" />
+    </td>
+    <td valign="top">
+      <h3>🛡️ IT Infrastructure Analyst</h3>
+      <b>Sicoob Credfaz</b> • <i>Nov/2021 — Present</i><br/>
+      <sub>Financial Institution (Regulated by the Central Bank of Brazil)</sub><br/><br/>
+      Technical lead for the modernization, security, and continuous operation of the IT infrastructure, ensuring high resilience and regulatory compliance.
+      <ul>
+        <li><b>Defensive Security:</b> Implementation and management of security controls (EDR, Firewall, IAM), mitigating vulnerabilities and monitoring threats in real-time with SIEM (Wazuh/Graylog).</li>
+        <li><b>Resilient Infrastructure:</b> Continuous support and improvement of the virtualization environment, Windows/Linux server administration, and network segmentation (Cisco/Fortinet).</li>
+        <li><b>Governance & Compliance:</b> Providing active technical assistance during audits (internal and external) and establishing operational Risk Management strategies based on ISO 27001.</li>
+        <li><b>Automation Engineering:</b> Developing serverless architectures and open-source scripts (Python/Bash) for expedited incident response and routine telemetry data extraction.</li>
+        <li><b>Enterprise Ecosystems:</b> Zero-to-production deployment and administration of platforms such as <b>Snipe-IT</b> (Assets), <b>Netbox</b> (DCIM/IPAM), <b>Vaultwarden</b> (Password Vault), and <b>Eramba</b> (GRC).</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="80" align="center">
+      <br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Folders" width="50" height="50" />
+    </td>
+    <td valign="top">
+      <h3>🛠️ Administrative Assistant</h3>
+      <b>Sicoob Credfaz</b> • <i>Jan/2020 — Oct/2021</i><br/><br/>
+      Operational baseline of the branch, resolving Level 1 IT issues, handling highly-secured physical documents, and supporting critical internal processes.
+    </td>
+  </tr>
 </table>
 
 <br/>
@@ -281,7 +285,7 @@ Operational baseline of the branch, focusing on initial IT technical support (L1
 <!--                         PROJECTS                                 -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="28" height="28" /> **Projects**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" height="28" /> **Projects**
 
 <br/>
 
