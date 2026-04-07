@@ -371,6 +371,24 @@ const emanuel = {
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                       LATEST ACTIVITY                            -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Activity" width="30" height="30" />&nbsp;
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=4000&pause=3000&color=58A6FF&center=true&vCenter=true&width=300&height=30&lines=LATEST+ACTIVITY" alt="Latest Activity" />
+
+<br/><br/>
+
+</div>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════════ -->
 <!--                       SNAKE ANIMATION                            -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
