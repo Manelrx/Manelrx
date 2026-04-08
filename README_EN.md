@@ -4,7 +4,7 @@
 <!--                         HEADER BANNER                            -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<a href="https://manelrx.github.io/portifolio/">
+<a href="https://emanuelmaraujo.github.io/portifolio/">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:161b22,30:1f6feb,50:58a6ff,70:1f6feb,85:161b22,100:0d1117&height=180&section=header&animation=twinkling" alt="header"/>
 </a>
 
@@ -29,7 +29,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠻⠿⠿⠿⠿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
-<a href="https://manelrx.github.io/portifolio/">
+<a href="https://emanuelmaraujo.github.io/portifolio/">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&width=800&height=70&lines=EMANUEL+ARA%C3%9AJO" alt="Emanuel Araújo" />
 </a>
 
@@ -45,7 +45,7 @@
 <!--                      PORTFOLIO HERO CTA                          -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-<a href="https://manelrx.github.io/portifolio/" target="_blank">
+<a href="https://emanuelmaraujo.github.io/portifolio/" target="_blank">
   <img src="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F_EXPLORE_MY_PORTFOLIO-58a6ff?style=for-the-badge&logoColor=white" height="42" alt="Portfolio"/>
 </a>
 
@@ -57,10 +57,10 @@
 <a href="mailto:emanuel-morais@outlook.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="25" alt="Email"/>
 </a>&nbsp;
-<a href="https://github.com/Manelrx">
+<a href="https://github.com/emanuelmaraujo">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="25" alt="GitHub"/>
 </a>&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Manelrx&color=30363d&style=flat-square&label=views" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=emanuelmaraujo&color=30363d&style=flat-square&label=views" alt="views"/>
 
 </div>
 
@@ -348,23 +348,23 @@ const emanuel = {
 
 <!-- ── TROPHIES ──────────────────────────────────────────────────── -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=Manelrx&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" width="98%" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=emanuelmaraujo&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" width="98%" alt="Trophies"/>
 
 <br/><br/>
 
 <!-- ── STATS ─────────────────────────────────────────────────────── -->
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Manelrx&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="Stats"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=emanuelmaraujo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="Stats"/>
 &nbsp;&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manelrx&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Languages"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelmaraujo&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Manelrx&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=8b949e&dates=6e7681" alt="Streak" width="520"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=emanuelmaraujo&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=8b949e&dates=6e7681" alt="Streak" width="520"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manelrx&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=1a6b3c&area=true&hide_border=true&custom_title=Contributions" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=emanuelmaraujo&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=1a6b3c&area=true&hide_border=true&custom_title=Contributions" width="95%" alt="Activity Graph"/>
 
 </div>
 
@@ -395,9 +395,9 @@ const emanuel = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manelrx/Manelrx/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manelrx/Manelrx/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Manelrx/Manelrx/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emanuelmaraujo/emanuelmaraujo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emanuelmaraujo/emanuelmaraujo/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/emanuelmaraujo/emanuelmaraujo/output/github-snake.svg" />
 </picture>
 
 </div>
@@ -419,7 +419,7 @@ const emanuel = {
 
 <br/>
 
-<a href="https://manelrx.github.io/portifolio/" target="_blank">
+<a href="https://emanuelmaraujo.github.io/portifolio/" target="_blank">
   <img src="https://img.shields.io/badge/%E2%96%B6%EF%B8%8F_PORTFOLIO-58a6ff?style=for-the-badge" height="35" alt="Portfolio"/>
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/emanuel-rx/">
